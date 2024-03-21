@@ -1,0 +1,1 @@
+layout file is [here](https://nuphy.com/pages/json-files-for-nuphy-keyboards)
